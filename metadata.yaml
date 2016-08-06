@@ -1,0 +1,55 @@
+_repo: The-History-of-Rome-Book-V--13-The-Establishment-of-the-Military-Monarchy_10705
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dickson, William P. (William Purdie)
+    alias: Dickson, William Purdie
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '6282'
+    url: http://www.gutenberg.org/2009/agents/6282
+creator:
+  author:
+    agent_name: Mommsen, Theodor
+    aliases:
+    - Mommsen, Theodorus
+    - Mommsen, Christian Matthias Theodor
+    - Mommsen, T. (Theodor)
+    - Mommzen, Teodor
+    birthdate: 1817
+    deathdate: 1903
+    gutenberg_agent_id: '1105'
+    url: http://www.gutenberg.org/2009/agents/1105
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Mommsen
+description: "The History of Rome (German: Römische Geschichte) is a multi-volume\
+  \ history of ancient Rome written by Theodor Mommsen (1817–1903). Originally published\
+  \ by Reimer & Hirsel, Leipzig, as three volumes during 1854-1856, the work dealt\
+  \ with the Roman Republic. A subsequent book was issued which concerned the provinces\
+  \ of the Roman Empire. Recently published was a further book on the Empire, reconstructed\
+  \ from lecture notes. The initial three volumes won widespread acclaim upon publication;\
+  \ indeed, \"The Roman History made Mommsen famous in a day.\" Still read and qualifiedly\
+  \ cited, it is the prolific Mommsen's most well-known work. The work was specifically\
+  \ cited when Mommsen was awarded the Nobel Prize.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10705'
+  wikidata: Q1500229
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: "The History of Rome, Book V\r\nThe Establishment of the Military Monarchy"
+url: http://www.gutenberg.org/ebooks/10705
+wikipedia:
+- https://de.wikipedia.org/wiki/R%C3%B6mische_Geschichte_(Theodor_Mommsen)
+- https://en.wikipedia.org/wiki/History_of_Rome_(Mommsen)
+- https://bg.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80_%D0%9C%D0%BE%D0%BC%D0%B7%D0%B5%D0%BD)
+- https://it.wikipedia.org/wiki/Storia_di_Roma_(Mommsen)
+- https://no.wikipedia.org/wiki/R%C3%B6mische_Geschichte
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%9C%D0%BE%D0%BC%D0%BC%D0%B7%D0%B5%D0%BD)
+- https://he.wikipedia.org/wiki/%D7%93%D7%91%D7%A8%D7%99_%D7%99%D7%9E%D7%99_%D7%A8%D7%95%D7%9E%D7%90
